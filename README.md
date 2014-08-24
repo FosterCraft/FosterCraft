@@ -1,0 +1,4 @@
+FosterCraft
+===========
+
+The FosterCraft server.
